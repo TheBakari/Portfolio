@@ -338,7 +338,21 @@ video::-webkit-media-controls {
 .second-slide .left-about-text .primary-button {
   margin-top: 25px;
 }
+.php {
+  margin-top: 20px;
+}
 
+.sql {
+  margin-top: 20px;
+}
+
+.ajax {
+  margin-top: 20px;
+}
+
+.bootstrap {
+  margin-top: 5px;
+}
 
 
 /*
@@ -635,7 +649,12 @@ footer a {
 ---------- RESPONSIVE STYLE ------------
 ========================================
 */
-
+@media (max-width: 991px){
+  .sql{
+    margin-top: 100px;
+    margin-bottom: -70px;
+  }
+}
 @media (max-width: 850px){
   .cd-slider-nav ul li h6 {
     font-size: 13px;

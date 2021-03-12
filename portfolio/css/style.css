@@ -2,30 +2,47 @@
 https://templatemo.com/tm-503-newline
 
 */
+.php {
+    margin-top: 20px;
+}
 
+.sql {
+    margin-top: 20px;
+}
 
-footer{
+.ajax {
+    margin-top: 20px;
+}
+
+.bootstrap {
+    margin-top: 5px;
+}
+
+footer {
     padding-top: 15px;
     padding-bottom: 15px;
     color: #cdcdcd;
 }
-.copy{
+
+.copy {
     font-size: 14px;
 }
-.wow{
+
+.wow {
     margin-top: 75px;
 }
 
 
-.font_awesome{
+.font_awesome {
     font-size: 25px;
     color: #ffbb05;
     margin-top: -23px;
     margin-bottom: 45px;
-  }
-  .font_awesome i{
+}
+
+.font_awesome i {
     padding: 10px;
     border-radius: 100%;
     border: 1px solid #ffbb05;
     background: #fff;
-  }
+}

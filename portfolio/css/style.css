@@ -2,6 +2,7 @@
 https://templatemo.com/tm-503-newline
 
 */
+/*  */
 .php {
     margin-top: 20px;
 }
@@ -45,4 +46,25 @@ footer {
     border-radius: 100%;
     border: 1px solid #ffbb05;
     background: #fff;
+}
+/* PORTFOLIO */
+.naslov-portfilio{
+    background-color:#ffbb05 ;
+    padding: 15px 0 15px 0;
+}
+
+.portfolio{
+    padding: 10px;
+    color: #cdcdcd;
+    margin-bottom: 20px;
+    border: 1px solid transparent;
+    
+}
+.portfolio:hover{
+  border-color: #ffbb05;
+  transition: all 1.7s ease;
+}
+.portfolio a{
+  font-size: 24px;
+  color:  #ffbb05;
 }

@@ -1,3 +1,3 @@
 # Portfolio
-Online cv of my work and projects
+Online cv for my work and projects
 

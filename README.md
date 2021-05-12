@@ -1,3 +1,3 @@
 # Portfolio
-Online cv for my work and projects
+Web site where you can see my projects
 
